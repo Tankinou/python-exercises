@@ -5,9 +5,9 @@ Created on Fri Oct 26 14:03:35 2018
 @author: tancr
 """
 
-def linear (lst, number):
+def linear (lst, num):
     for i in range(len(lst)):
-        if lst[i]==number:
+        if lst[i]==num:
             return i 
     return None
 
