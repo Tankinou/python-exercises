@@ -13,5 +13,5 @@ def linear (lst, num):
 
 
 def hello ():
-    name = input('what is your name?')
+    name = input('what is your name? ')
     print ('hello ' + name)
